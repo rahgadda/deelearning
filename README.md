@@ -2,6 +2,7 @@
 
 ## Topics
 - Python
+  - Language Fundamentals
   - Numpy [Matix/Array Processing]
   - Pandas [Data Analysis]
   - Matplotlib [Data Visualization]
